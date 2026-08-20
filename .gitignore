@@ -1,0 +1,14 @@
+# Java / Maven
+backend/target/
+*.class
+
+# Local runtime configuration and secrets
+.env
+.env.*
+application-local.properties
+
+# IDE and operating-system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
